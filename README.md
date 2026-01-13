@@ -10,5 +10,7 @@ Découvrez NotesGym !
 - Création d'un graphique à partir des notes pour chaque matière
 - Possibilité d'exclure une note du bulletin (de la moyenne générale)
 
+![Accueil de NotesGym](homepage_notesgym.jpeg)
+
 
 Pour toute suggestion : helver@duck.com
