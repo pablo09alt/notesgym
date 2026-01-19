@@ -1,5 +1,5 @@
 ### Overview 📈:
-**NotesGym** is a modern APK, where you can insert you marks, and the program is calculating automatically your grade averages. 
+**NotesGym** is a modern APK, thought for students, where you can insert you marks, and the program is calculating automatically your grade averages. 
 
 You need to sign-in with Google or an email adress. 
 
