@@ -20,7 +20,7 @@ NotesGym was made with Base44, an AI tool to build PWA. After that, I uses Media
 ### Versions 💾 :
 You can grab here the latest versions of NotesGym :
 - [NotesGym v1.8 (latest)](NotesGym_v1.8.apk)
-- [NotesGym v1.6](sha256:7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6)
+- [NotesGym v1.6](https://github.com/pablo09alt/notesgym/releases/download/Marks/NotesGym_v1.6.apk)
 
 ### Releases :
 **NotesGym v1.8 :**
