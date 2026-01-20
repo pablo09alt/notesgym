@@ -3,7 +3,7 @@
 
 You need to sign-in with Google or an email adress. 
 
-### Features :
+### Main Features :
 - Automatic calculation of averages by subject
 - Automatic calculation of general average
 - Automatic calculation of the points of the "Double Compensation System" for thoses who live in Switzerland
