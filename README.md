@@ -25,6 +25,11 @@ You can grab here the latest versions of NotesGym :
 - [NotesGym v1.6](https://github.com/pablo09alt/notesgym/releases/download/Marks/NotesGym_v1.6.apk)
 
 ### Releases :
+**NotesGym v2.0 :**
+What's new :
+- Addition of the “dream grade.” If you add a dream grade to a subject, it will show you the average you would get if you achieved that “dream” grade.
+- Addition of a hamburger menu. If you want to keep the app simple, without additional features, simply disable the hamburger menu using the new on/off button.
+
 **NotesGym v1.9 :**
 What's new : 
 - Ability to search for a note by name
