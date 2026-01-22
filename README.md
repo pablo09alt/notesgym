@@ -19,13 +19,20 @@ NotesGym was made with Base44, an AI tool to build PWA. After that, I use Median
 
 ### Versions 💾 :
 You can grab here the latest versions of NotesGym :
-- [NotesGym v3.0 (latest)](https://github.com/pablo09alt/notesgym/releases/download/English/NotesGym_v3.0.latest.apk)
+- [NotesGym v3.1](
+- [NotesGym v3.0](https://github.com/pablo09alt/notesgym/releases/download/English/NotesGym_v3.0.latest.apk)
 - [NotesGym v2.0](https://github.com/pablo09alt/notesgym/releases/download/notesgym/NotesGym_v2.0.apk)
 - [NotesGym v1.9](https://github.com/pablo09alt/notesgym/releases/download/NotesGym/NotesGym_v1.9.apk)
 - [NotesGym v1.8](https://github.com/pablo09alt/notesgym/releases/download/marks/NotesGym.v1.8.apk)
 - [NotesGym v1.6](https://github.com/pablo09alt/notesgym/releases/download/Marks/NotesGym_v1.6.apk)
 
 ### Releases :
+**NotesGym v3.1 :**
+- Ability to change the notation system :
+  Swiss and German : 1-6
+  French : 1-20
+  American : A-F
+
 **NotesGym v3.0 :**
 What's new : 
 - Adding new languages, English and German
