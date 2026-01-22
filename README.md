@@ -15,7 +15,7 @@ You need to sign-in with Google or an email adress.
 NotesGym is built with a neumorphism style 
 
 ### Building 🧱: 
-NotesGym was made with Base44, an AI tool to build PWA. After that, I uses Median.co to transform the PWA in a downloadable APK. The APK are coming out a little late on the GitHub repo. If you want the latest version as quick as possible, you can still visit : notesgym.base44.app 
+NotesGym was made with Base44, an AI tool to build PWA. After that, I use Median.co to transform the PWA in a downloadable APK. The APK are coming out a little late on the GitHub repo, like 2 or 3 hours later. If you want the latest version as quick as possible, you can still visit : notesgym.base44.app 
 
 ### Versions 💾 :
 You can grab here the latest versions of NotesGym :
