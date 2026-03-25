@@ -3,6 +3,9 @@
 
 You need to sign-in with Google or an email adress. 
 
+### Is Notesgym vibe coded ? 
+Yes, unfortunately I'm not so good to be able to code a whole application
+
 ### Main Features :
 - Automatic calculation of averages by subject
 - Automatic calculation of general average
